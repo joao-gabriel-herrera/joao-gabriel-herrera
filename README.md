@@ -1,8 +1,9 @@
-# Olá! Bem vindo ao meu perfil!!!
+# 👋 Olá! Seja muito bem vindo ao meu perfil!!!
 
 
-### Quem sou eu?
-Estudante de análise e desenvolvimento de sistemas e desenvolvedor front-end
+### 👤 Quem sou eu?
+Determinado, consistente e ágil, três palavras que me definem, programar é minha paixão, desde que 
+entrei nesta área quero aprender mais e mais a cada dia que passa. Há 1 ano venho desenvolvendo projetos com HTML, CSS e Bootstrap, além de atualmente estar me aprimorando em JavaScript e Sass.
 
 ## 📊 Status GitHub:
 <div>
