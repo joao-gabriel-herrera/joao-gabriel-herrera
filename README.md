@@ -26,7 +26,7 @@ entrei nesta área quero aprender mais e mais a cada dia que passa. Há 1 ano ve
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
   <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
-  <img align="right" alt="João" height="150" style="border-radius:50px;" src="https://instagram.fppb2-1.fna.fbcdn.net/v/t51.2885-19/325617718_473583288112034_3960349244487490467_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fppb2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Tj1dL7qHB4IAX-DvbsV&tn=-GFnhNQ6_nBhass2&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAlfWkyt9mm05vmGptj9LHPc-mb1v-GZNvo6nI8lvC9gg&oe=63D93EBB&_nc_sid=8fd12b">
+  <img align="right" alt="João" height="150" style="border-radius:50px;" src="[https://instagram.fppb2-1.fna.fbcdn.net/v/t51.2885-19/325617718_473583288112034_3960349244487490467_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fppb2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Tj1dL7qHB4IAX-DvbsV&tn=-GFnhNQ6_nBhass2&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAlfWkyt9mm05vmGptj9LHPc-mb1v-GZNvo6nI8lvC9gg&oe=63D93EBB&_nc_sid=8fd12b](https://instagram.fppb3-1.fna.fbcdn.net/v/t51.2885-15/327435320_888931802523983_1994761906096895177_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.fppb3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=0UXPjCdirf4AX96pbJ-&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzAyNTA5Mjc1NDQxODQ0MDM4Nw%3D%3D.2-ccb7-5&oh=00_AfBXwY3uDUPnHIUeOramBZG3msW0vQIv-AvU6RaTDI_EYQ&oe=64BA3E2C&_nc_sid=b41fef)">
 </div>
 
 ##
