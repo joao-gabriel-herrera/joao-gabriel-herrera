@@ -36,5 +36,3 @@ entrei nesta área quero aprender mais e mais a cada dia que passa. Há 1 ano ve
   
   
 </div>
-
-![Snake animation](https://github.com/joao-gabriel-herrera/joao-gabriel-herrera/blob/output/github-contribution-grid-snake.svg)
