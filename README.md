@@ -33,7 +33,6 @@ entrei nesta área quero aprender mais e mais a cada dia que passa. Há 1 ano ve
 
 <div> 
   <a href ="mailto:contatoportfolio.joao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/joao-herrera" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://joaoherrera.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a> 
   
   
